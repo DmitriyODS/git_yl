@@ -1,7 +1,6 @@
-name = input("Ты кта?")
-age = int(input("А лет скок?"))
+def main():
+	pass
 
-if age > 18:
-	print("Пошли в КБ")
-else:
-	print("Иди в школу")
+
+if __name__ == "__main__":
+	main()
